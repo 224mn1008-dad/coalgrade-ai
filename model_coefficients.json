@@ -1,0 +1,17 @@
+{
+  "features": [
+    "Moisture",
+    "Ash",
+    "VolatileMatter",
+    "FixedCarbon"
+  ],
+  "coefficients": [
+    -29.3574,
+    -32.0216,
+    7.0669,
+    54.3122
+  ],
+  "intercept": 3007.0344,
+  "linear_R2": 0.9927,
+  "rf_R2": 0.9913
+}

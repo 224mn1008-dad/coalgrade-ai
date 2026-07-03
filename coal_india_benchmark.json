@@ -1,0 +1,86 @@
+{
+  "source": "Rajya Sabha Session 267, Unstarred Q.790, answered 10 Feb 2025 (Ministry of Coal); via data.gov.in",
+  "metric": "Weighted-average GCV of non-coking coal, 2019-20 to 2023-24 (kcal/kg)",
+  "subsidiaries": [
+    {
+      "code": "CIL",
+      "name": "Coal India Ltd (overall)",
+      "avg_gcv": 4198,
+      "grade": "G11",
+      "min": 4180,
+      "max": 4240
+    },
+    {
+      "code": "NEC",
+      "name": "North Eastern Coalfields",
+      "avg_gcv": 6625,
+      "grade": "G3",
+      "min": 6396,
+      "max": 6775
+    },
+    {
+      "code": "BCCL",
+      "name": "Bharat Coking Coal",
+      "avg_gcv": 5205,
+      "grade": "G7",
+      "min": 5015,
+      "max": 5335
+    },
+    {
+      "code": "ECL",
+      "name": "Eastern Coalfields",
+      "avg_gcv": 5339,
+      "grade": "G7",
+      "min": 5120,
+      "max": 5610
+    },
+    {
+      "code": "NCL",
+      "name": "Northern Coalfields",
+      "avg_gcv": 4692,
+      "grade": "G9",
+      "min": 4646,
+      "max": 4742
+    },
+    {
+      "code": "WCL",
+      "name": "Western Coalfields",
+      "avg_gcv": 4253,
+      "grade": "G11",
+      "min": 4233,
+      "max": 4285
+    },
+    {
+      "code": "CCL",
+      "name": "Central Coalfields",
+      "avg_gcv": 4218,
+      "grade": "G11",
+      "min": 3996,
+      "max": 4326
+    },
+    {
+      "code": "SECL",
+      "name": "South Eastern Coalfields",
+      "avg_gcv": 4196,
+      "grade": "G11",
+      "min": 4182,
+      "max": 4218
+    },
+    {
+      "code": "SCCL",
+      "name": "Singareni Collieries",
+      "avg_gcv": 4085,
+      "grade": "G11",
+      "min": 4031,
+      "max": 4116
+    },
+    {
+      "code": "MCL",
+      "name": "Mahanadi Coalfields",
+      "avg_gcv": 3530,
+      "grade": "G13",
+      "min": 3470,
+      "max": 3613
+    }
+  ]
+}

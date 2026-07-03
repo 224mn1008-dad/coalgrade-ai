@@ -1,0 +1,22 @@
+{
+  "LinearRegression": {
+    "R2": 0.9927,
+    "MAE_kcal": 73.2,
+    "RMSE_kcal": 93.0
+  },
+  "RandomForest": {
+    "R2": 0.9913,
+    "MAE_kcal": 81.4,
+    "RMSE_kcal": 101.6
+  },
+  "GradientBoosting": {
+    "R2": 0.9915,
+    "MAE_kcal": 78.4,
+    "RMSE_kcal": 100.1
+  },
+  "_grade_accuracy": {
+    "best_model": "LinearRegression",
+    "exact_grade": 0.7588,
+    "within_1_grade": 1.0
+  }
+}
