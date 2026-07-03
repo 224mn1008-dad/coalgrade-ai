@@ -1,81 +1,42 @@
 # LinkedIn post — CoalGrade AI
 
-Attach **CoalGrade_AI_poster.png** to the post. Replace `[LINK]` with your
-GitHub Pages / Netlify URL once it's live. Pick the version you like.
+Attach **CoalGrade_AI_poster.png** as the image on the post — image posts get
+far more reach than text-only. Both links below are live and working.
+
+- **Live tool:** https://224mn1008-dad.github.io/coalgrade-ai/
+- **Source code (GitHub):** https://github.com/224mn1008-dad/coalgrade-ai
 
 ---
 
-## Version A — Main (recommended)
+## Post text (copy-paste as-is)
 
-I built a free AI tool that grades Indian coal in seconds. 🪨⚡
+Mining still runs on tests that take hours. AI can cut that down to seconds — here's a working example. 🪨⚡
 
-Here's the problem: coal in India is priced by its grade, and grade comes from
-its Gross Calorific Value (GCV). But measuring GCV needs a bomb calorimeter —
-slow and costly. Meanwhile, every colliery lab already runs the cheap
-"proximate analysis" test (moisture, ash, volatile matter) every single day.
+Every colliery lab in India already runs a "proximate analysis" test (moisture, ash, volatile matter) on coal samples daily. But to actually grade that coal for pricing and dispatch, you need its Gross Calorific Value (GCV) — which normally means a slower, costlier bomb-calorimeter test.
 
-So I trained a machine-learning model that predicts GCV and the official Indian
-grade (G1–G17) straight from that cheap test — instantly, in your browser.
+I built CoalGrade AI to close that gap: a lightweight ML model that predicts GCV and the official Indian coal grade (G1–G17) directly from the proximate analysis data labs already have on hand — instantly, right in the browser.
 
-✅ 0.99 R² accuracy, ~73 kcal/kg error
-✅ Tuned for Indian high-ash coal, not imported coal
-✅ Validated against real Coal India Limited data (Ministry of Coal figures)
-✅ Single-sample + bulk CSV scoring
-✅ 100% free, no login, runs offline — nothing leaves your computer
+This isn't a idea sitting in a slide deck. It's a live, working, no-login tool:
 
-It's built around the "Hackathon on R&D 2026" problem statement on AI-based coal
-quality estimation — but I'm putting it out free for every coal engineer,
-student, and colliery in India to use.
+✅ 0.99 R² accuracy (~73 kcal/kg average error)
+✅ Trained and validated specifically for Indian high-ash coal — not clean imported coal
+✅ Cross-checked against real Coal India Limited GCV figures (Ministry of Coal / Rajya Sabha data)
+✅ Single-sample instant prediction + bulk CSV scoring for whole batches
+✅ Runs 100% in your browser — no login, nothing to install, no data leaves your machine
 
-Try it 👉 [LINK]
+It's a small, free contribution from me — as a student genuinely interested in where AI can plug into old-school industrial workflows. Mining has plenty of these "cheap test exists, expensive test still required" gaps, and a lot of them can be bridged with a model this simple.
 
-Feedback welcome — tell me what would make it more useful for your mine or lab.
+If you work in mining, coal quality control, or dispatch — or you're just curious how AI fits into a traditional industry — try it out and tell me what would make it more useful for your site or lab.
 
-#Coal #MiningTech #ArtificialIntelligence #MachineLearning #CoalIndia #EnergyTech #MadeInIndia #DataScience
+🔗 Try it live: https://224mn1008-dad.github.io/coalgrade-ai/
+💻 Code is open on GitHub, free to use or fork: https://github.com/224mn1008-dad/coalgrade-ai
+
+#Coal #Mining #ArtificialIntelligence #MachineLearning #MiningTech #CoalIndia #EnergyTech #OpenSource #StudentProject
 
 ---
 
-## Version B — Short & punchy
-
-Grading coal usually means an expensive bomb-calorimeter test and a wait.
-
-I built a free AI tool that predicts a coal sample's calorific value and Indian
-grade (G1–G17) instantly — from the cheap proximate test every lab already runs.
-
-→ 0.99 accuracy
-→ Tuned for Indian high-ash coal
-→ Validated against real Coal India data
-→ Free, runs in your browser, no login
-
-For India's coal miners and students. Try it: [LINK]
-
-#Coal #MiningTech #AI #MachineLearning #CoalIndia #EnergyTech
-
----
-
-## Version C — Student / personal angle
-
-As a student selected for the Ministry of Coal's Hackathon on R&D 2026, I wanted
-my project to actually help people — not just sit in a submission folder.
-
-So I'm releasing **CoalGrade AI** free: an ML tool that predicts coal calorific
-value and the official Indian grade (G1–G17) from the routine proximate-analysis
-test, in seconds, right in the browser.
-
-Trained for Indian high-ash coal and validated against real Coal India Limited
-GCV figures (0.99 R²). No cost, no login, no data collected.
-
-If you work with coal — or are a student learning mining/energy — give it a spin
-and tell me how to improve it. 👇
-
-[LINK]
-
-#CoalIndia #MiningEngineering #AI #MachineLearning #StudentProject #EnergyTech #MadeInIndia
-
----
-
-### Tips
-- Post the **poster image** with the text — image posts get far more reach.
+### Posting tips
+- Attach **CoalGrade_AI_poster.png** directly to the post (not just a link preview) — image posts get far more reach.
 - Post on a **weekday morning (IST)** for best visibility.
-- Reply to early comments quickly — it boosts the post in the feed.
-- Tag relevant pages/people (e.g. your college, mining groups) where genuine.
+- Reply to early comments quickly — it boosts the post in LinkedIn's feed algorithm.
+- Tag relevant pages/people (your college, mining/coal industry groups) where genuinely relevant — don't over-tag.

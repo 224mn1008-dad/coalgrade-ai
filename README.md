@@ -1,14 +1,15 @@
 # CoalGrade AI — Coal Quality Estimation
 
-**Hackathon on R&D 2026 (Ministry of Coal / CMPDI) — prototype**
+**An independent student project for India's mining sector.**
 
 Predicts the **Gross Calorific Value (GCV, kcal/kg)** and the official
 **Indian non-coking coal grade (G1–G17)** of a coal sample from its
 **proximate analysis** — the cheap, routine lab test every colliery already
 runs. No bomb calorimeter, no waiting.
 
-Problem statement addressed: *"AI-Based Coal Quality Estimation"* and
-*"Coal quality estimation"* (Ministry of Coal, Annexure I).
+Built and released for free as a small contribution to India's mining and
+energy community — by a student with an interest in applying AI to
+traditional mining workflows.
 
 ---
 
